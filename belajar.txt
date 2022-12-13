@@ -6,3 +6,4 @@ materi PTI
 5. aplikasi word I
 6. aplikasi word II
 7. aplikasi mendeley
+8. test
